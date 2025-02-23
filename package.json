@@ -1,0 +1,12 @@
+{
+  "name": "data-visualization-software",
+  "version": "1.0.0",
+  "description": "## Vision DataViz Pro is an enterprise-grade Business Intelligence and Data Visualization platform that empowers organizations to connect, transform, and visualize their data with ease. Built with modern technologies and AI-driven features, it combines the power of traditional BI tools with next-generation capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
